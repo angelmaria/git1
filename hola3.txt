@@ -1,2 +1,4 @@
-este es un cambio de este pequeno archivo
-asi es
+este es un cambio de este super gran archivo
+cambio desde edit branch.
+
+Y ahora hago nuevos cambios desde main. 
