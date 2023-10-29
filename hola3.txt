@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 este es un cambio de este super gran archivo
 cambio desde edit branch.
 
@@ -5,3 +6,7 @@ Y ahora hago nuevos cambios desde main.
 
 este es un cambio de este super gran super archivo
 cambio desde edit branch de nuevo. 
+=======
+este es un cambio de este archivo
+cambio desde short branch
+>>>>>>> Stashed changes
