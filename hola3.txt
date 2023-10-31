@@ -11,3 +11,5 @@ este es un cambio de este archivo
 cambio desde short branch
 >>>>>>> Stashed changes
 Add some more new feautres. 
+Algun cambio adicional desde la rama main que hagao desde local, habiendo cambiado algo en este mismo archivo en la rama edits. Habra conflicto. 
+
