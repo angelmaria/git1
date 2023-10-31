@@ -1,15 +1,22 @@
 <<<<<<< Updated upstream
+<<<<<<< HEAD
 este es un cambio de este super gran archivo
 cambio desde edit branch.
 
 Y ahora hago nuevos cambios desde main. 
 
+=======
+>>>>>>> edits
 este es un cambio de este super gran super archivo
 cambio desde edit branch de nuevo. 
 =======
 este es un cambio de este archivo
 cambio desde short branch
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 Add some more new feautres. 
 Algun cambio adicional desde la rama main que hagao desde local, habiendo cambiado algo en este mismo archivo en la rama edits. Habra conflicto. 
 
+=======
+Realizo cambios en local desde la rama edits. 
+>>>>>>> edits
