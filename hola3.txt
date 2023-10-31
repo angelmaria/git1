@@ -5,3 +5,4 @@ cambio desde edit branch de nuevo.
 este es un cambio de este archivo
 cambio desde short branch
 >>>>>>> Stashed changes
+Realizo cambios en local desde la rama edits. 
