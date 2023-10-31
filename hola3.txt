@@ -20,4 +20,3 @@ Algun cambio adicional desde la rama main que hagao desde local, habiendo cambia
 =======
 Realizo cambios en local desde la rama edits. 
 >>>>>>> edits
-Cambio desde feature/product-test
